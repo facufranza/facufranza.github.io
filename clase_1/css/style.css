@@ -1,0 +1,9 @@
+/* .grilla-principal {
+    display: grid;
+    grid-template-rows: 24% 24% 24% 24%;
+    gap: 1%;
+} */
+
+.lista {
+    padding: 10px;
+}
